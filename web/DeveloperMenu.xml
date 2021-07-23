@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus17Trial/</Path>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Cliente</ObjName>
+      <ObjDesc>Cliente</ObjDesc>
+      <ObjLink>cliente.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Modelo</ObjName>
+      <ObjDesc>Modelo</ObjDesc>
+      <ObjLink>modelo.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Veiculo</ObjName>
+      <ObjDesc>Cadastro de Veiculos</ObjDesc>
+      <ObjLink>veiculo.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WebPanel1</ObjName>
+      <ObjDesc>Web Panel1</ObjDesc>
+      <ObjLink>webpanel1.aspx</ObjLink>
+   </Object>
+</Objects>

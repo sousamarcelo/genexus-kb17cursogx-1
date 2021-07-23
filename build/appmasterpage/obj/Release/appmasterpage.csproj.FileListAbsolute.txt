@@ -1,0 +1,3 @@
+C:\Models\kb17cursogx\CSharpModel\web\bin\appmasterpage.dll
+C:\Models\kb17cursogx\CSharpModel\build\appmasterpage\obj\Release\appmasterpage.csprojResolveAssemblyReference.cache
+C:\Models\kb17cursogx\CSharpModel\build\appmasterpage\obj\Release\appmasterpage.dll

@@ -1,0 +1,5 @@
+CREATE TABLE [Veiculo] ([VeiculoId] smallint NOT NULL , [VeiculoPlaca] nchar(20) NOT NULL , [VeiculoChassi] nchar(20) NOT NULL , [ModeloId] smallint NOT NULL , PRIMARY KEY([VeiculoId]))
+CREATE NONCLUSTERED INDEX [IVEICULO1] ON [Veiculo] ([ModeloId] )
+
+ALTER TABLE [Veiculo] ADD CONSTRAINT [IVEICULO1] FOREIGN KEY ([ModeloId]) REFERENCES [Modelo] ([ModeloId])
+
